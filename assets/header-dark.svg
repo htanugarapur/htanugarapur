@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" width="1280" height="340" role="img" aria-label="Ruparagunath G — AI Researcher, Neuro-Symbolic and Scientific ML">
+  <defs>
+    <linearGradient id="pl" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#141208"/>
+      <stop offset="0.55" stop-color="#1a1710"/>
+      <stop offset="1" stop-color="#221d13"/>
+    </linearGradient>
+    <radialGradient id="gl" cx="0.82" cy="0.45" r="0.55">
+      <stop offset="0" stop-color="#9b7b50" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#9b7b50" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="340" fill="url(#pl)"/>
+  <rect width="1280" height="340" fill="url(#gl)"/>
+  <rect x="0" y="0" width="1280" height="3" fill="#9b7b50"/>
+
+  <!-- neuro-symbolic motif: circles = learned, squares = symbolic, dashed = the ablated edge -->
+  <g stroke="#9b7b50" fill="none" stroke-linecap="round">
+    <g stroke-opacity="0.42" stroke-width="1.25">
+      <path d="M985 96 L1063 108"/>
+      <path d="M1063 108 L1046 172"/>
+      <path d="M1046 172 L1152 152"/>
+      <path d="M1046 172 L1098 214"/>
+      <path d="M1098 214 L1124 246"/>
+      <path d="M1014 250 L1046 172"/>
+      <path d="M1105 74 L1063 108"/>
+      <path d="M985 96 L1014 250"/>
+    </g>
+    <path d="M1152 152 L1124 246" stroke-opacity="0.85" stroke-width="1.6" stroke-dasharray="5 7"/>
+  </g>
+  <g fill="#9b7b50">
+    <circle cx="985" cy="96" r="7" fill-opacity="0.85"/>
+    <circle cx="1105" cy="74" r="5" fill-opacity="0.7"/>
+    <circle cx="1046" cy="172" r="10"/>
+    <circle cx="1152" cy="152" r="6" fill-opacity="0.8"/>
+    <circle cx="1014" cy="250" r="5.5" fill-opacity="0.7"/>
+    <circle cx="1124" cy="246" r="7" fill-opacity="0.85"/>
+  </g>
+  <g fill="none" stroke="#ccba9c" stroke-width="1.6" stroke-opacity="0.8">
+    <rect x="1053" y="98" width="20" height="20" rx="2"/>
+    <rect x="1089" y="205" width="18" height="18" rx="2"/>
+  </g>
+
+  <!-- wordmark -->
+  <text x="76" y="104" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" letter-spacing="4.6" fill="#ccba9c" font-weight="500">A I &#160; R E S E A R C H E R</text>
+  <text x="76" y="186" font-family="'Cormorant Garamond',Georgia,'Iowan Old Style','Palatino Linotype',serif" font-size="72" fill="#f2f0ea" letter-spacing="-0.6">Ruparagunath G</text>
+  <rect x="76" y="214" width="104" height="2" fill="#9b7b50"/>
+  <text x="76" y="256" font-family="'Cormorant Garamond',Georgia,'Iowan Old Style',serif" font-size="27" font-style="italic" fill="#ccba9c">Neuro-Symbolic &#38; Scientific Machine Learning</text>
+  <text x="76" y="290" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="15" fill="#8d8677" letter-spacing="0.35">Anna University, MIT Campus &#183; Chennai, India</text>
+</svg>
