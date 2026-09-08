@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 500" width="1280" height="500" role="img" aria-label="Overview: research timeline, focus areas and 2026 publications for Ruparagunath G">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f2f0ea"/><stop offset="0.6" stop-color="#edeae2"/><stop offset="1" stop-color="#e6e2d8"/></linearGradient>
+<radialGradient id="gl" cx="0.78" cy="0.15" r="0.6"><stop offset="0" stop-color="#ccba9c" stop-opacity="0.34"/><stop offset="1" stop-color="#ccba9c" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1280" height="500" fill="url(#bg)"/>
+<rect width="1280" height="500" fill="url(#gl)"/>
+<rect width="1280" height="3" fill="#9b7b50"/>
+<text x="76" y="74" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="4.2" font-weight="500" fill="#9b7b50">R E S E A R C H</text>
+<line x1="94" y1="102" x2="94" y2="478" stroke="#dedad1" stroke-width="2"/>
+<circle cx="94" cy="127" r="7" fill="#9b7b50" fill-opacity="1"/>
+<text x="124" y="132" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="0.7" fill="#9b7b50">Aug 2026 · Anna University</text>
+<text x="124" y="159" font-family="'Cormorant Garamond',Georgia,'Iowan Old Style','Palatino Linotype',serif" font-size="24" fill="#141208">Research Assistant</text>
+<text x="124" y="182" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#716d60">Autonomous Research Supervision Agent</text>
+<circle cx="94" cy="221" r="5" fill="#9b7b50" fill-opacity="0.75"/>
+<text x="124" y="226" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="0.7" fill="#9b7b50">Feb 2026 · IIT Madras</text>
+<text x="124" y="253" font-family="'Cormorant Garamond',Georgia,'Iowan Old Style','Palatino Linotype',serif" font-size="24" fill="#141208">Undergraduate Researcher</text>
+<text x="124" y="276" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#716d60">Symbolic Regression for Packed-Bed Transport</text>
+<circle cx="94" cy="315" r="5" fill="#9b7b50" fill-opacity="0.75"/>
+<text x="124" y="320" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="0.7" fill="#9b7b50">University of Toronto · remote</text>
+<text x="124" y="347" font-family="'Cormorant Garamond',Georgia,'Iowan Old Style','Palatino Linotype',serif" font-size="24" fill="#141208">Research Engineer</text>
+<text x="124" y="370" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#716d60">AI Research Infrastructure</text>
+<circle cx="94" cy="409" r="5" fill="#9b7b50" fill-opacity="0.75"/>
+<text x="124" y="414" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="0.7" fill="#9b7b50">Apr 2025 · Anna University, MIT Campus</text>
+<text x="124" y="441" font-family="'Cormorant Garamond',Georgia,'Iowan Old Style','Palatino Linotype',serif" font-size="24" fill="#141208">Undergraduate Researcher</text>
+<text x="124" y="464" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#716d60">Sign-Language Translation &amp; Explainable Medical Imaging</text>
+<text x="700" y="74" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="4.2" font-weight="500" fill="#9b7b50">F O C U S</text>
+<rect x="700.0" y="100" width="176.9" height="38" rx="19.0" fill="#ffffff" fill-opacity="0.55" stroke="#9b7b50" stroke-opacity="0.45" stroke-width="1"/>
+<text x="788.5" y="125" text-anchor="middle" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="15" font-weight="500" fill="#4a4436">Symbolic Regression</text>
+<rect x="888.9" y="100" width="165.2" height="38" rx="19.0" fill="#ffffff" fill-opacity="0.55" stroke="#9b7b50" stroke-opacity="0.45" stroke-width="1"/>
+<text x="971.5" y="125" text-anchor="middle" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="15" font-weight="500" fill="#4a4436">Equation Discovery</text>
+<rect x="700.0" y="152" width="161.0" height="38" rx="19.0" fill="#ffffff" fill-opacity="0.55" stroke="#9b7b50" stroke-opacity="0.45" stroke-width="1"/>
+<text x="780.5" y="177" text-anchor="middle" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="15" font-weight="500" fill="#4a4436">Neuro-Symbolic AI</text>
+<rect x="873.0" y="152" width="131.9" height="38" rx="19.0" fill="#ffffff" fill-opacity="0.55" stroke="#9b7b50" stroke-opacity="0.45" stroke-width="1"/>
+<text x="939.0" y="177" text-anchor="middle" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="15" font-weight="500" fill="#4a4436">Explainable AI</text>
+<rect x="1016.9" y="152" width="146.6" height="38" rx="19.0" fill="#ffffff" fill-opacity="0.55" stroke="#9b7b50" stroke-opacity="0.45" stroke-width="1"/>
+<text x="1090.2" y="177" text-anchor="middle" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="15" font-weight="500" fill="#4a4436">Computer Vision</text>
+<rect x="700.0" y="204" width="173.5" height="38" rx="19.0" fill="#ffffff" fill-opacity="0.55" stroke="#9b7b50" stroke-opacity="0.45" stroke-width="1"/>
+<text x="786.8" y="229" text-anchor="middle" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="15" font-weight="500" fill="#4a4436">Multi-Agent Systems</text>
+<line x1="700" y1="278" x2="1204" y2="278" stroke="#dedad1" stroke-width="1.5"/>
+<text x="700" y="320" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="4.2" font-weight="500" fill="#9b7b50">P U B L I C A T I O N S</text>
+<text x="700" y="356" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="0.5" fill="#9b7b50">IEEE Xplore · ICIETSD 2026</text>
+<text x="700" y="382" font-family="'Cormorant Garamond',Georgia,'Iowan Old Style','Palatino Linotype',serif" font-size="18" fill="#141208">Neural Translation of Tamil to Indian Sign Language</text>
+<text x="700" y="418" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="0.5" fill="#9b7b50">Springer (IFIP-endorsed) · ICCCSP 2026 · accepted</text>
+<text x="700" y="444" font-family="'Cormorant Garamond',Georgia,'Iowan Old Style','Palatino Linotype',serif" font-size="18" fill="#141208">From ASL to ISL: Translating Gestures across Sign Languages</text>
+</svg>
