@@ -7,23 +7,19 @@
 <rect width="1280" height="500" fill="url(#gl)"/>
 <rect width="1280" height="3" fill="#9b7b50"/>
 <text x="76" y="74" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="4.2" font-weight="500" fill="#9b7b50">R E S E A R C H</text>
-<line x1="94" y1="102" x2="94" y2="478" stroke="#dedad1" stroke-width="2"/>
+<line x1="94" y1="102" x2="94" y2="460" stroke="#dedad1" stroke-width="2"/>
 <circle cx="94" cy="127" r="7" fill="#9b7b50" fill-opacity="1"/>
-<text x="124" y="132" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="0.7" fill="#9b7b50">Aug 2026 · Anna University</text>
-<text x="124" y="159" font-family="'Cormorant Garamond',Georgia,'Iowan Old Style','Palatino Linotype',serif" font-size="24" fill="#141208">Research Assistant</text>
-<text x="124" y="182" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#716d60">Autonomous Research Supervision Agent</text>
-<circle cx="94" cy="221" r="5" fill="#9b7b50" fill-opacity="0.75"/>
-<text x="124" y="226" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="0.7" fill="#9b7b50">Feb 2026 · IIT Madras</text>
-<text x="124" y="253" font-family="'Cormorant Garamond',Georgia,'Iowan Old Style','Palatino Linotype',serif" font-size="24" fill="#141208">Undergraduate Researcher</text>
-<text x="124" y="276" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#716d60">Symbolic Regression for Packed-Bed Transport</text>
-<circle cx="94" cy="315" r="5" fill="#9b7b50" fill-opacity="0.75"/>
-<text x="124" y="320" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="0.7" fill="#9b7b50">University of Toronto · remote</text>
-<text x="124" y="347" font-family="'Cormorant Garamond',Georgia,'Iowan Old Style','Palatino Linotype',serif" font-size="24" fill="#141208">Research Engineer</text>
-<text x="124" y="370" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#716d60">AI Research Infrastructure</text>
-<circle cx="94" cy="409" r="5" fill="#9b7b50" fill-opacity="0.75"/>
-<text x="124" y="414" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="0.7" fill="#9b7b50">Apr 2025 · Anna University, MIT Campus</text>
-<text x="124" y="441" font-family="'Cormorant Garamond',Georgia,'Iowan Old Style','Palatino Linotype',serif" font-size="24" fill="#141208">Undergraduate Researcher</text>
-<text x="124" y="464" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#716d60">Sign-Language Translation &amp; Explainable Medical Imaging</text>
+<text x="124" y="132" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="0.7" fill="#9b7b50">Feb 2026 · IIT Madras</text>
+<text x="124" y="159" font-family="'Cormorant Garamond',Georgia,'Iowan Old Style','Palatino Linotype',serif" font-size="24" fill="#141208">Undergraduate Researcher</text>
+<text x="124" y="182" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#716d60">Symbolic Regression for Packed-Bed Transport</text>
+<circle cx="94" cy="258" r="5" fill="#9b7b50" fill-opacity="0.75"/>
+<text x="124" y="263" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="0.7" fill="#9b7b50">Jun-Jul 2026 · University of Toronto · remote</text>
+<text x="124" y="290" font-family="'Cormorant Garamond',Georgia,'Iowan Old Style','Palatino Linotype',serif" font-size="24" fill="#141208">Research Engineer</text>
+<text x="124" y="313" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#716d60">AI Research Infrastructure</text>
+<circle cx="94" cy="389" r="5" fill="#9b7b50" fill-opacity="0.75"/>
+<text x="124" y="394" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="0.7" fill="#9b7b50">Apr 2025 · Anna University, MIT Campus</text>
+<text x="124" y="421" font-family="'Cormorant Garamond',Georgia,'Iowan Old Style','Palatino Linotype',serif" font-size="24" fill="#141208">Undergraduate Researcher</text>
+<text x="124" y="444" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#716d60">Sign-Language Translation &amp; Explainable Medical Imaging</text>
 <text x="700" y="74" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="4.2" font-weight="500" fill="#9b7b50">F O C U S</text>
 <rect x="700.0" y="100" width="176.9" height="38" rx="19.0" fill="#ffffff" fill-opacity="0.55" stroke="#9b7b50" stroke-opacity="0.45" stroke-width="1"/>
 <text x="788.5" y="125" text-anchor="middle" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="15" font-weight="500" fill="#4a4436">Symbolic Regression</text>
@@ -42,5 +38,5 @@
 <text x="700" y="356" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="0.5" fill="#9b7b50">IEEE Xplore · ICIETSD 2026</text>
 <text x="700" y="382" font-family="'Cormorant Garamond',Georgia,'Iowan Old Style','Palatino Linotype',serif" font-size="18" fill="#141208">Neural Translation of Tamil to Indian Sign Language</text>
 <text x="700" y="418" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="0.5" fill="#9b7b50">Springer (IFIP-endorsed) · ICCCSP 2026 · accepted</text>
-<text x="700" y="444" font-family="'Cormorant Garamond',Georgia,'Iowan Old Style','Palatino Linotype',serif" font-size="18" fill="#141208">From ASL to ISL: Translating Gestures across Sign Languages</text>
+<text x="700" y="444" font-family="'Cormorant Garamond',Georgia,'Iowan Old Style','Palatino Linotype',serif" font-size="17" fill="#141208">From ASL to ISL: Translating Gestures across Sign Languages</text>
 </svg>
