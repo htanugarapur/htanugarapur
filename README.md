@@ -32,10 +32,9 @@ The through-line across everything below is one question:
 
 | Since | Role | Where |
 |---|---|---|
-| **Aug 2026** | Research Assistant — *Autonomous Research Supervision Agent* | **Anna University** · supervised by an IBM India Enterprise Architect |
-| **Feb 2026** | Undergraduate Researcher — *Symbolic Regression for Packed-Bed Transport* | **IIT Madras** · Advisor: Dr. Himanshu Goyal |
-| — | Research Engineer — *AI Research Infrastructure* | **University of Toronto** (remote) · Collaborator: Tong Li |
-| **Apr 2025** | Undergraduate Researcher — *Sign-Language Translation & Explainable Medical Imaging* | **Anna University, MIT Campus** |
+| **Feb 2026-Present** | Undergraduate Researcher — *Symbolic Regression for Packed-Bed Transport* | **IIT Madras** · Advisor: Dr. Himanshu Goyal |
+| **Jun-Jul 2026**  | Research Engineer — *AI Research Infrastructure* | **University of Toronto** (remote) · Collaborator: Tong Li |
+| **Apr 2025-Present** | Undergraduate Researcher — *Sign-Language Translation & Explainable Medical Imaging* | **Anna University, MIT Campus** |
 
 **Neural Translation of Tamil to Indian Sign Language via Pivot-Transformer with 2D and 3D Avatar Motion Through English as a Medium Language**
 <br><sub>Radha Senthilkumar (Supervisor) · **Ruparagunath G** · Jayanathi P (Mentor) — ICIETSD 2026 · IEEE Xplore</sub>
