@@ -9,7 +9,7 @@
 <text x="76" y="74" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="4.2" font-weight="500" fill="#9b7b50">R E S E A R C H</text>
 <line x1="94" y1="102" x2="94" y2="460" stroke="#2e2718" stroke-width="2"/>
 <circle cx="94" cy="127" r="7" fill="#9b7b50" fill-opacity="1"/>
-<text x="124" y="132" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="0.7" fill="#9b7b50">Feb 2026 · IIT Madras</text>
+<text x="124" y="132" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="0.7" fill="#9b7b50">Feb-Aug 2026 · IIT Madras</text>
 <text x="124" y="159" font-family="'Cormorant Garamond',Georgia,'Iowan Old Style','Palatino Linotype',serif" font-size="24" fill="#f2f0ea">Undergraduate Researcher</text>
 <text x="124" y="182" font-family="'Outfit','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" fill="#8d8677">Symbolic Regression for Packed-Bed Transport</text>
 <circle cx="94" cy="258" r="5" fill="#9b7b50" fill-opacity="0.75"/>
